@@ -1,0 +1,10 @@
+Flask
+PyMuPDF
+pdfplumber
+docx
+pandas
+joblib
+nltk
+scikit-learn
+
+

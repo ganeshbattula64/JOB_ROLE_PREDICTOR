@@ -1,0 +1,269 @@
+Python
+Java
+C++
+JavaScript
+TypeScript
+C#
+Swift
+Kotlin
+Ruby
+Go
+R
+PHP
+Rust
+Dart
+SQL
+NoSQL
+HTML
+CSS
+React.js
+Node.js
+Vue.js
+Angular
+Django
+Flask
+Spring Boot
+Express.js
+ASP.NET
+GraphQL
+REST APIs
+Microservices
+Git
+GitHub
+GitLab
+Docker
+Kubernetes
+Jenkins
+CI/CD
+Terraform
+Ansible
+Linux
+Windows Server
+Shell Scripting
+PowerShell
+Bash
+Cybersecurity
+Penetration Testing
+Incident Response
+Ethical Hacking
+Firewall Management
+SIEM
+Risk Assessment
+Machine Learning
+Deep Learning
+Artificial Intelligence
+NLP
+Computer Vision
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Keras
+OpenCV
+Big Data
+Apache Spark
+Hadoop
+Data Analysis
+Data Wrangling
+Data Mining
+SQL Queries
+MongoDB
+Google BigQuery
+Snowflake
+Data Engineering
+Feature Engineering
+MLOps
+AutoML
+LLMs (Large Language Models)
+Prompt Engineering
+Generative AI
+AWS
+Azure
+Google Cloud
+Cloud Security
+Serverless Computing
+Lambda Functions
+Kubernetes Administration
+DevOps
+Site Reliability Engineering
+Monitoring & Logging
+Prometheus
+Grafana
+Elastic Stack (ELK)
+Service Mesh (Istio)
+Helm Charts
+Project Management
+Scrum
+Agile Methodologies
+Kanban
+JIRA
+Trello
+Asana
+Confluence
+Stakeholder Management
+Business Analysis
+Risk Management
+Process Optimization
+Change Management
+Six Sigma
+Lean Management
+Operations Research
+Financial Analysis
+Investment Strategies
+Financial Modeling
+Corporate Finance
+Mergers & Acquisitions
+Budgeting
+Cost Management
+Taxation
+Auditing
+Forensic Accounting
+QuickBooks
+SAP Finance
+Hedge Fund Management
+Risk Assessment
+Cryptocurrency Analysis
+Blockchain Technology
+Smart Contracts
+Decentralized Finance (DeFi)
+SEO (Search Engine Optimization)
+Google Analytics
+Content Marketing
+Digital Marketing
+Social Media Marketing
+Email Marketing
+Influencer Marketing
+Facebook Ads
+Google Ads
+Conversion Rate Optimization
+Sales Funnel Optimization
+B2B Sales
+B2C Sales
+Lead Generation
+Account Management
+Market Research
+Brand Management
+Public Relations
+Affiliate Marketing
+Event Planning
+Customer Relationship Management (CRM)
+Graphic Design
+Adobe Photoshop
+Adobe Illustrator
+Adobe XD
+Figma
+UI/UX Design
+Wireframing
+Prototyping
+Responsive Design
+Motion Graphics
+Animation
+3D Modeling
+Autodesk Maya
+Blender
+Game Design
+Unreal Engine
+Unity3D
+Video Editing
+Adobe Premiere Pro
+Final Cut Pro
+Audio Production
+Podcast Editing
+Content Writing
+Copywriting
+Technical Writing
+Editing & Proofreading
+Creative Writing
+Blogging
+Scriptwriting
+Grant Writing
+Journalism
+Academic Writing
+Legal Writing
+Ghostwriting
+Speech Writing
+Patient Care
+Medical Billing
+Electronic Health Records (EHR)
+Medical Coding
+Nursing
+Pharmaceuticals
+Clinical Trials
+Healthcare Analytics
+Telemedicine
+Health Informatics
+Medical Research
+Physiotherapy
+Dietetics & Nutrition
+Public Health
+Talent Acquisition
+Employee Relations
+HR Analytics
+Payroll Processing
+Performance Management
+Compensation & Benefits
+Training & Development
+Diversity & Inclusion
+HR Policies
+Workforce Planning
+Supply Chain Management
+Inventory Management
+Procurement
+Logistics Management
+Warehouse Management
+Freight & Transportation
+SAP ERP
+Enterprise Resource Planning (ERP)
+Demand Forecasting
+Supplier Relationship Management
+Civil Engineering
+Structural Engineering
+AutoCAD
+SolidWorks
+3D Printing
+Manufacturing Processes
+Quality Assurance (QA)
+Electrical Engineering
+Mechanical Engineering
+Chemical Engineering
+Environmental Engineering
+Curriculum Development
+E-learning Platforms
+Instructional Design
+Corporate Training
+LMS (Learning Management System)
+Online Course Creation
+Student Counseling
+Legal Research
+Contract Negotiation
+Regulatory Compliance
+Intellectual Property (IP) Law
+Litigation Support
+Paralegal Skills
+Corporate Law
+Privacy & Data Protection
+Quantum Computing
+IoT (Internet of Things)
+Edge Computing
+Augmented Reality (AR)
+Virtual Reality (VR)
+Metaverse Development
+Cyber-Physical Systems
+AI Ethics
+Autonomous Systems
+Renewable Energy Technologies
+Leadership
+Communication
+Problem-Solving
+Critical Thinking
+Adaptability
+Creativity
+Collaboration
+Emotional Intelligence
+Negotiation
+Conflict Resolution
+Time Management
+Decision Making
